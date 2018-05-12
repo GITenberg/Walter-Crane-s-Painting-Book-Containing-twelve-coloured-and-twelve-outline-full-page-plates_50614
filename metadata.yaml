@@ -1,4 +1,8 @@
 _repo: Walter-Crane-s-Painting-Book-Containing-twelve-coloured-and-twelve-outline-full-page-plates_50614
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50614-h/images/i_back_cover.jpg
 creator:
   author:
     agent_name: Crane, Walter
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7195
     wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50614#Walter-Crane-s-Painting-Book-Containing-twelve-coloured-and-twelve-outline-full-page-plates
 gutenberg_issued: '2015-12-05'
 gutenberg_type: Text
 identifiers:
